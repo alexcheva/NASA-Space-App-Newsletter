@@ -1,0 +1,22 @@
+img{
+			border:none;
+			font-size:14px;
+			font-weight:bold;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+			text-transform:capitalize;
+		}
+		a{
+			color:#FEC978 !important;
+		}
+		a:link{
+			color:#FEC978 !important;
+		}
+		a:visited{
+			color:#FEC978 !important;
+		}
+		a:hover{
+			color:#FEC978 !important;
+		}
